@@ -1,0 +1,21 @@
+Pi Weather Station
+==================
+
+This is a small Java project geared to run on the Raspberry Pi, but it should
+run on any system with Java.  I wrote it initially to fill up space on a monitor
+I used as an accurate clock with an Internet connected device using NTP (Network
+Time Protocol) and dclock.  As it came together I thought it would be a fun
+project for anyone with a spare monitor and $35 to spend on a Raspberry Pi.
+
+If you would like to read more open:
+
+   Pi Weather Station.html
+
+stored in the doc folder.
+
+f you have questions, comments, etc. send them to:
+
+   PiWeatherStation@gmail.com
+
+Enjoy,
+Ted Mead
